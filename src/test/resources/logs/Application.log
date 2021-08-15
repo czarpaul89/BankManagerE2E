@@ -1,0 +1,22 @@
+15/08/2021 17:45:17 devpinoyLogger broswer initialised
+15/08/2021 17:45:18 devpinoyLogger CustLoginBTN found
+15/08/2021 17:45:18 devpinoyLogger website opened
+15/08/2021 17:45:18 devpinoyLogger BMLoginBTN found
+15/08/2021 17:45:18 devpinoyLogger Add customer found
+15/08/2021 17:45:18 devpinoyLogger BM Login done
+15/08/2021 17:45:24 devpinoyLogger CustLoginBTN was not found
+15/08/2021 17:45:24 devpinoyLogger Home button clicked
+15/08/2021 17:45:24 devpinoyLogger Your Name Label found
+15/08/2021 17:45:24 devpinoyLogger Cust Login done
+15/08/2021 17:45:25 devpinoyLogger home btn clicked
+15/08/2021 17:45:25 devpinoyLogger bank manager login
+15/08/2021 17:45:25 devpinoyLogger adding customer
+15/08/2021 17:45:26 devpinoyLogger data initialsed with : [3][3]
+15/08/2021 17:45:27 devpinoyLogger Customer added successfully with customer id :6
+15/08/2021 17:45:29 devpinoyLogger Customer added successfully with customer id :7
+15/08/2021 17:45:31 devpinoyLogger Customer added successfully with customer id :8
+15/08/2021 17:45:32 devpinoyLogger data initialsed with : [3][2]
+15/08/2021 17:45:35 devpinoyLogger Account created successfully with account Number :1016
+15/08/2021 17:45:39 devpinoyLogger Account created successfully with account Number :1017
+15/08/2021 17:45:43 devpinoyLogger Account created successfully with account Number :1018
+15/08/2021 17:45:47 devpinoyLogger broswer closed

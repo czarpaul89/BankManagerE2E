@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-09T13:35:24 IST" name="Default suite" finished-at="2021-06-09T13:35:37 IST" duration-ms="12784">
+    <groups>
+    </groups>
+    <test started-at="2021-06-09T13:35:24 IST" name="Default test" finished-at="2021-06-09T13:35:37 IST" duration-ms="12784">
+      <class name="testCases.openAccnt">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:21 IST" name="setup" finished-at="2021-06-09T13:35:24 IST" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getOpenAccntPage()[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:24 IST" name="getOpenAccntPage" finished-at="2021-06-09T13:35:24 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOpenAccntPage -->
+        <test-method signature="openAccount(java.lang.Object,java.lang.Object)[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:25 IST" name="openAccount" data-provider="dp" finished-at="2021-06-09T13:35:29 IST" duration-ms="3840" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dollar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method signature="openAccount(java.lang.Object,java.lang.Object)[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:29 IST" name="openAccount" data-provider="dp" finished-at="2021-06-09T13:35:33 IST" duration-ms="3856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ron Weasly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pound]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method signature="openAccount(java.lang.Object,java.lang.Object)[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:33 IST" name="openAccount" data-provider="dp" finished-at="2021-06-09T13:35:37 IST" duration-ms="3906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Albus Dumbledore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.openAccnt@7c24b813]" started-at="2021-06-09T13:35:37 IST" name="tearDown" finished-at="2021-06-09T13:35:40 IST" duration-ms="3730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.openAccnt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
